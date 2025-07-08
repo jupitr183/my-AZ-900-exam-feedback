@@ -18,7 +18,7 @@ If you're just starting your cloud journey — **this is the perfect place to be
 
 ---
 
-## 🔍 What Appeared on the Actual AZ-900 Exam (June 2024):
+## 🔍 What Appeared on the Actual AZ-900 Exam:
 
 - Cloud concepts (IaaS vs PaaS vs SaaS, CapEx vs OpEx) — expect 3–4 direct questions  
 - Scenario-based questions comparing services: **VMs vs Containers**, **Azure SQL vs Cosmos DB**  
